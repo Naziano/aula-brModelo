@@ -1,0 +1,14 @@
+
+MODELAGEM DE BANCO DE DADOS - Top-Dow
+
+- Modelo Descritivo:
+  - Descrever o problema no que interessa ao sistema ( Não ficar colocando coisas desnecessárias).
+
+- Modelo Conceitual:
+  - 1º modelo formal que consiste em encontrar as entidades, atributos e relacionamentos possíveis.
+
+- Modelo Lógico:
+  - 2º modelo formal que consiste em aplicar regras ao modelo conceitual para que tenhamos este novo diagrama ( DER genérico).
+
+- Modelo Físico:
+  - Já é o banco de dados em um SGBD ( Sistema Gerenciador de Bancos de Dados) específico ( SQL Server, MeSQL, PostgreSQL, etc...).
